@@ -2,7 +2,7 @@
 
 namespace UploadFileApiDemo.Controllers
 {
-    //[ApiController]
+    [ApiController]
     [Route("api/[controller]")]
     public class RobotController : ControllerBase
     {
